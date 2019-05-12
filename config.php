@@ -8,5 +8,5 @@ $rd_pass  => isi dengan password kalian
 isi dengan email/nomer jika gagal
 **/
 
-$rd_email="kenjikazama7@gmail.com";
-$rd_pass="kontol123";
+$rd_email="pantek";
+$rd_pass="kau Budjank";
